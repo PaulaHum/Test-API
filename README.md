@@ -13,10 +13,16 @@ The collection has been created for training⛹️‍♀️ purposes and as a re
 
 ## 📝  In this collection can be found the following:
 
-* Set of requests executed using methods: GET, PUT, PATCH
-* Authorisation: Bearer Token
-* Variables (collection’s, environment’s)
-* Tests
+* Set of requests executed using methods: **GET, PUT, PATCH**
+<img width="821" alt="Screenshot 2024-09-06 at 23 43 03" src="https://github.com/user-attachments/assets/0031cda7-edc3-4e9e-b7b0-4800cb8cc744">
+<br></br>
+* Authorisation: **Bearer Token**
+<img width="890" alt="Screenshot 2024-09-06 at 23 42 11" src="https://github.com/user-attachments/assets/493c8e2f-fe93-4b3d-93b8-6df97c54795e">
+<br></br>
+* **Variables** (collection’s, environment’s)
+
+<br></br>
+* **Tests**
 
 ## 🔗 Links:
 * https://jsonplaceholder.typicode.com 
