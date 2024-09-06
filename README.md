@@ -1,7 +1,7 @@
 ![APItesting](https://github.com/user-attachments/assets/975a83e6-3de7-4c85-8a3c-39af0641636c)
 
 # API Testing 
-Welcome to the **API Testing ** project! This project is simple but covering most essential methods of confirming whether an API remains reliable and is working as expected.
+Welcome to the **API Testing** project! This project is simple but covering most essential methods of confirming whether an API remains reliable and is working as expected.
 
 ## 👋 Description:
 
